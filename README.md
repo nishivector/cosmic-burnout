@@ -4,9 +4,9 @@ A fast-paced space shooter with a sarcastic AI companion named NEXUS-7. Defeat a
 
 ## Play Now
 
-**Live Game:** https://mrdoob.github.io/cosmic-burnout/
+**Live Game:** https://nishivector.github.io/cosmic-burnout/
 
-**Repository:** https://github.com/mrdoob/cosmic-burnout
+**Repository:** https://github.com/nishivector/cosmic-burnout
 
 ## How to Play
 
